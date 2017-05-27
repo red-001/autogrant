@@ -1,0 +1,3 @@
+# Comma seperated list of privileges that are automaticly granted once to all users
+auto_grant_priv (auto_grant_priv) string
+
